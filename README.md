@@ -2,7 +2,7 @@
 
 ## Games and Friends 😊🎲
 
-Love board games? In this demo we build a workflow with Weaviate (Python v.4) and OpenAI to query our database suggests games to play and friends to play them with using natural language prompts.
+Love board games? In this demo we build a workflow with Weaviate (Python v.4) and OpenAI to query our database which suggests games to play and friends to play them with using natural language prompts.
 
 This demo is split into two parts (and two notebooks):
 
