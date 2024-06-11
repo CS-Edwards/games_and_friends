@@ -1,7 +1,6 @@
-## Games and Friends 😊🎲
-
 ![Games and Friends Welcome](assets/games_and_friends_welcome.png)
 
+## Games and Friends 😊🎲
 
 Love board games? In this demo we build a workflow with Weaviate (Python v.4) and OpenAI to query our database suggests games to play and friends to play them with using natural language prompts.
 
