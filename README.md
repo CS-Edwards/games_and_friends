@@ -22,9 +22,10 @@ Throughout our demo we will:
 - Establish OpenAI Function Calling
 - Demo games and friends
 
-#### Happy Coding!
 ### 🔑 API Keys:
 For this demo you will need API Keys from:
 - Weaviate Cloud Database Instance
 - OpenAI
+
+#### Happy Coding!
 
