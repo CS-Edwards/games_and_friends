@@ -7,7 +7,7 @@ Love board games? In this demo we build a workflow with Weaviate (Python v.4) an
 This demo is split into two parts (and two notebooks):
 
 -  [Part 1: Weaviate Client and Generative Search](https://github.com/CS-Edwards/games_and_friends/blob/main/Part_1_Weaviate_Client_and_Generative_Search_draft.ipynb)
--  Part 2: Open AI Function Calling
+-  [Part 2: Open AI Function Calling](https://github.com/CS-Edwards/games_and_friends/blob/main/Part_2_OpenAI_Function_Calling_weaviate.ipynb)
 
 Throughout our demo we will:
 - Connect to Weaviate Cloud Database client instance
